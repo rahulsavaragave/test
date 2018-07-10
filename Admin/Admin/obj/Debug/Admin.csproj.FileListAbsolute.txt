@@ -1,0 +1,46 @@
+D:\Working data\Admin\Desktop\Admin Module\Admin\Admin\bin\Admin.dll
+D:\Working data\Admin\Desktop\Admin Module\Admin\Admin\bin\Admin.pdb
+D:\Working data\Admin\Desktop\Admin Module\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+D:\Working data\Admin\Desktop\Admin Module\Admin\Admin\obj\Debug\Admin.dll
+D:\Working data\Admin\Desktop\Admin Module\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Sayali\Desktop\ShopAdmin\ShopModule\Admin\Admin\bin\Admin.dll
+C:\Users\Sayali\Desktop\ShopAdmin\ShopModule\Admin\Admin\bin\Admin.pdb
+C:\Users\Sayali\Desktop\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Sayali\Desktop\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\Sayali\Desktop\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.pdb
+D:\Working data\Admin\Desktop\Ekta\ShopAdmin\ShopModule\Admin\Admin\bin\Admin.dll
+D:\Working data\Admin\Desktop\Ekta\ShopAdmin\ShopModule\Admin\Admin\bin\Admin.pdb
+D:\Working data\Admin\Desktop\Ekta\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+D:\Working data\Admin\Desktop\Ekta\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.dll
+D:\Working data\Admin\Desktop\Ekta\ShopAdmin\ShopModule\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\sawaraj\Desktop\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.dll
+C:\Users\sawaraj\Desktop\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.pdb
+C:\Users\sawaraj\Desktop\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\sawaraj\Desktop\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\sawaraj\Desktop\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Maxgen\Desktop\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.dll
+C:\Users\Maxgen\Desktop\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.pdb
+C:\Users\Maxgen\Desktop\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Maxgen\Desktop\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\Maxgen\Desktop\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.pdb
+D:\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.dll
+D:\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\bin\Admin.pdb
+D:\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+D:\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.dll
+D:\Mall_Project\Ravikumar\Ravikumar\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\DEEPAK\Desktop\BACKUP_ALL_PROJECT\BACKUP_ALL_PROJECT\UPDATED 17-3-2017\Admin\Admin\Admin\bin\Admin.dll
+C:\Users\DEEPAK\Desktop\BACKUP_ALL_PROJECT\BACKUP_ALL_PROJECT\UPDATED 17-3-2017\Admin\Admin\Admin\bin\Admin.pdb
+C:\Users\DEEPAK\Desktop\BACKUP_ALL_PROJECT\BACKUP_ALL_PROJECT\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\DEEPAK\Desktop\BACKUP_ALL_PROJECT\BACKUP_ALL_PROJECT\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\DEEPAK\Desktop\BACKUP_ALL_PROJECT\BACKUP_ALL_PROJECT\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\DEEPAK\Desktop\UPDATED 17-3-2017\Admin\Admin\Admin\bin\Admin.dll
+C:\Users\DEEPAK\Desktop\UPDATED 17-3-2017\Admin\Admin\Admin\bin\Admin.pdb
+C:\Users\DEEPAK\Desktop\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\DEEPAK\Desktop\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\DEEPAK\Desktop\UPDATED 17-3-2017\Admin\Admin\Admin\obj\Debug\Admin.pdb
+E:\Project\Mall Project\Admin\Admin\bin\Admin.dll.config
+E:\Project\Mall Project\Admin\Admin\bin\Admin.dll
+E:\Project\Mall Project\Admin\Admin\bin\Admin.pdb
+E:\Project\Mall Project\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+E:\Project\Mall Project\Admin\Admin\obj\Debug\Admin.dll
+E:\Project\Mall Project\Admin\Admin\obj\Debug\Admin.pdb
